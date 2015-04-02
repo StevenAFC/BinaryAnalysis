@@ -3,3 +3,6 @@ Excel Binary Analysis code inspired by Chris Domas's TED talk found [here](http:
 
 ### BMP File Analysed
 ![BMP File](http://i.imgur.com/LTVlGv9.png)
+
+## HTML File Analysed
+![HTML File](http://i.imgur.com/UWLT3bJ.png)
